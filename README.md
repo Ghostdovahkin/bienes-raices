@@ -1,2 +1,2 @@
 # bienes-raices
-ej practica
+front end pagina bienes raices :D 
